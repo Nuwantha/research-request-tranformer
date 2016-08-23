@@ -1,0 +1,8 @@
+#template: Hello, %s!
+template: "%s"
+fnametemp: "%s"
+lnametemp: "%s"
+#bDay: "%s"
+defaultName: "Ak"
+defaultlname: "mylastname"
+defaultfname: "myfirstname"
